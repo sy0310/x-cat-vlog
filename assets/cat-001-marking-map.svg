@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" role="img" aria-label="CAT-001 draft orange-and-white tabby cat marking map, not final character rendering">
+  <rect width="960" height="640" fill="#F7F5F0"/>
+  <text x="38" y="46" font-family="Arial, sans-serif" font-weight="700" font-size="27" fill="#2C353E">CAT-001  /  COAT MARKING MAP</text>
+  <text x="755" y="45" font-family="Arial, sans-serif" font-size="15" fill="#A36938" font-weight="700">DRAFT v0.1</text>
+  <rect x="28" y="68" width="572" height="535" rx="22" fill="#FDFCF9" stroke="#D9D6CF" stroke-width="2"/>
+  <rect x="620" y="68" width="312" height="535" rx="22" fill="#FFFFFF" stroke="#E0DDD6" stroke-width="2"/>
+  <ellipse cx="318" cy="558" rx="189" ry="20" fill="#E9E5DD"/>
+  <!-- orange ringed tail behind body -->
+  <path d="M433 456 C520 525 573 480 542 407 C530 380 509 372 489 374" fill="none" stroke="#B86A32" stroke-width="76" stroke-linecap="round"/>
+  <path d="M433 456 C520 525 573 480 542 407 C530 380 509 372 489 374" fill="none" stroke="#D99248" stroke-width="59" stroke-linecap="round"/>
+  <path d="M497 479 L512 428 M532 472 L560 442 M552 425 L528 422" fill="none" stroke="#B66D36" stroke-width="13" stroke-linecap="round" opacity=".8"/>
+  <!-- body -->
+  <ellipse cx="313" cy="445" rx="147" ry="147" fill="#D99248" stroke="#B86F39" stroke-width="3"/>
+  <path d="M196 418 Q215 443 215 494 M420 418 Q405 442 407 484" stroke="#BA7037" stroke-width="11" stroke-linecap="round" fill="none" opacity=".5"/>
+  <ellipse cx="313" cy="458" rx="84" ry="117" fill="#F6E9D5"/>
+  <!-- forelegs and white socks -->
+  <path d="M216 437 C206 485 216 537 233 551 L265 548 C264 508 264 470 257 444" fill="#D99248"/>
+  <path d="M368 445 C362 474 364 509 362 549 L401 548 C411 514 414 480 405 438" fill="#D99248"/>
+  <path d="M218 521 Q239 513 265 522 L265 548 Q243 566 217 550 Z" fill="#F6E9D5"/>
+  <path d="M364 523 Q384 514 411 523 L401 551 Q377 566 362 549 Z" fill="#F6E9D5"/>
+  <ellipse cx="215" cy="551" rx="48" ry="23" fill="#F6E9D5" stroke="#E4D6C4" stroke-width="2"/>
+  <ellipse cx="411" cy="551" rx="48" ry="23" fill="#F6E9D5" stroke="#E4D6C4" stroke-width="2"/>
+  <!-- ears behind head -->
+  <path d="M196 259 L205 138 Q207 125 223 137 L277 190 Z" fill="#D99248" stroke="#B86F39" stroke-width="3"/>
+  <path d="M435 259 L420 138 Q418 125 405 138 L356 190 Z" fill="#D99248" stroke="#B86F39" stroke-width="3"/>
+  <path d="M218 171 L255 209 L212 228 Z M410 171 L369 209 L417 228 Z" fill="#DF9A92"/>
+  <!-- head -->
+  <ellipse cx="316" cy="283" rx="141" ry="123" fill="#D99248" stroke="#B86F39" stroke-width="3"/>
+  <!-- forehead M stripe -->
+  <path d="M264 201 L283 225 L304 206 L324 225 L345 201" fill="none" stroke="#A65B2B" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M232 218 L254 238 M377 237 L399 217 M196 280 L229 291 M402 291 L434 280 M203 312 L234 310 M395 310 L428 313" stroke="#B56934" stroke-width="10" stroke-linecap="round" opacity=".83"/>
+  <!-- eyes -->
+  <ellipse cx="267" cy="279" rx="24" ry="30" fill="#F8E6BA"/>
+  <ellipse cx="365" cy="279" rx="24" ry="30" fill="#F8E6BA"/>
+  <ellipse cx="267" cy="280" rx="17" ry="23" fill="#B5853B"/>
+  <ellipse cx="365" cy="280" rx="17" ry="23" fill="#B5853B"/>
+  <ellipse cx="267" cy="280" rx="7" ry="18" fill="#292721"/>
+  <ellipse cx="365" cy="280" rx="7" ry="18" fill="#292721"/>
+  <circle cx="261" cy="269" r="5" fill="#FFFFFF"/>
+  <circle cx="359" cy="269" r="5" fill="#FFFFFF"/>
+  <!-- white muzzle -->
+  <ellipse cx="286" cy="329" rx="52" ry="36" fill="#F6E9D5"/>
+  <ellipse cx="346" cy="329" rx="52" ry="36" fill="#F6E9D5"/>
+  <path d="M263 342 Q316 379 368 342" fill="#F6E9D5"/>
+  <path d="M303 314 Q316 307 329 314 L316 329 Z" fill="#D88C8F"/>
+  <path d="M316 329 L316 343 Q307 350 299 345 M316 343 Q325 350 333 345" stroke="#79594E" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <circle cx="273" cy="328" r="3" fill="#C1A18D"/><circle cx="284" cy="338" r="3" fill="#C1A18D"/>
+  <circle cx="359" cy="328" r="3" fill="#C1A18D"/><circle cx="348" cy="338" r="3" fill="#C1A18D"/>
+  <!-- whiskers -->
+  <path d="M256 332 L203 323 M256 342 L197 347 M375 332 L431 323 M375 342 L434 347" stroke="#8D7E6E" stroke-width="2" stroke-linecap="round"/>
+  <text x="314" y="592" text-anchor="middle" font-family="Arial, sans-serif" fill="#7A7064" font-size="14">Schematic only · not the final photorealistic reference</text>
+  <!-- legend -->
+  <text x="647" y="114" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#323A43">Identity anchors</text>
+  <text x="647" y="142" font-family="Arial, sans-serif" font-size="13" fill="#6B737A">Keep these unchanged in every shot</text>
+  <circle cx="662" cy="184" r="13" fill="#D99248" stroke="#B86F39"/>
+  <text x="688" y="189" font-family="Arial, sans-serif" font-size="17" fill="#343B41">Warm orange tabby</text>
+  <circle cx="662" cy="238" r="13" fill="#F6E9D5" stroke="#D8CEBF"/>
+  <text x="688" y="244" font-family="Arial, sans-serif" font-size="17" fill="#343B41">Cream-white markings</text>
+  <circle cx="662" cy="292" r="13" fill="#B5853B"/>
+  <text x="688" y="298" font-family="Arial, sans-serif" font-size="17" fill="#343B41">Amber eyes</text>
+  <circle cx="662" cy="346" r="13" fill="#D88C8F"/>
+  <text x="688" y="352" font-family="Arial, sans-serif" font-size="17" fill="#343B41">Pink nose</text>
+  <path d="M647 406 L660 424 L673 405 L685 423 L699 406" fill="none" stroke="#A65B2B" stroke-width="8" stroke-linecap="round"/>
+  <text x="715" y="418" font-family="Arial, sans-serif" font-size="17" fill="#343B41">Forehead M</text>
+  <path d="M647 461 C658 449 666 471 679 462 C689 452 700 469 711 461" stroke="#B86F39" stroke-width="13" fill="none" stroke-linecap="round"/>
+  <text x="720" y="467" font-family="Arial, sans-serif" font-size="17" fill="#343B41">Ringed tail</text>
+  <path d="M646 510 L900 510" stroke="#E8E5E0"/>
+  <text x="647" y="539" font-family="Arial, sans-serif" font-size="15" fill="#62707C">Outfit / props / background:</text>
+  <text x="647" y="562" font-family="Arial, sans-serif" font-size="18" fill="#43825D" font-weight="700">Can change</text>
+  <text x="647" y="586" font-family="Arial, sans-serif" font-size="13" fill="#A36938">Visual approval still required</text>
+</svg>
